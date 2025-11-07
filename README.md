@@ -42,7 +42,7 @@ CRA optimizations and React 17 rendering; semantic HTML and keyboard‑navigable
 
 ## Prerequisites
 
-- Node.js: `18.17.0`
+- Node.js: `18.20.3`
 
 ## Installation
 
@@ -68,6 +68,12 @@ Open http://localhost:3000
 - `npm run build` – Create an optimized production build in `build/`
 - `npm test` – Run tests in watch mode (Jest + RTL via CRA)
 - `npm run eject` – Eject CRA configuration (one‑way operation)
+
+## Screenshots
+
+![Dashboard](./public/screenshots/screenshot-01.png)
+
+![Map & Trends](./public/screenshots/screenshot-02.png)
 
 ---
 
